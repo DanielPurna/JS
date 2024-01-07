@@ -1,0 +1,13 @@
+let name = "Daniel Magar"
+let age = 36
+
+
+console.log(`My name is ${name} and I am ${age} years old`);
+
+// always use string baktik ``
+
+
+let newGame = "James-Game"
+
+console.log(newGame.indexOf(-2, 4));
+console.log(newGame.toUpperCase());
