@@ -24,6 +24,8 @@ let idLoggedIn = true
 
 // Array, Object, Function
 
+const bigNumber = 121312315546456461n // bigInt
 
 console.log(typeof null); // type object
 console.log(typeof undefined); // type undefiend
+console.log(typeof bigNumber); // type undefiend
