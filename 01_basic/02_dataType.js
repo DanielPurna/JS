@@ -9,7 +9,7 @@ let age = 35
 let idLoggedIn = true
 
 
-// DataTypes 
+// DataTypes Primitive
 
 //string => "Purna"
 // number => 2
@@ -18,6 +18,12 @@ let idLoggedIn = true
 // null = standbolen khali thau
 // undefined = undefied kehi nabhaeko
 //symbol = unique garaunalai use garinchha 
+
+
+// DataTypes  Refrence (Non Primitive)
+
+// Array, Object, Function
+
 
 console.log(typeof null); // type object
 console.log(typeof undefined); // type undefiend
